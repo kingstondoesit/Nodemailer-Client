@@ -14,8 +14,8 @@ A simple email-sending service using [Nodemailer](https://www.npmjs.com/package/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kingtondoesit/nodemailer-client-service.git
-   cd nodemailer-client-service
+   git clone https://github.com/kingstondoesit/Nodemailer-Client.git
+   cd Nodemailer-Client
    ```
 
 2. Install dependencies:
@@ -30,6 +30,7 @@ A simple email-sending service using [Nodemailer](https://www.npmjs.com/package/
    GMAIL_USER = `your-email@gmail.com`
    GMAIL_PASS = `your-app-password`
    ```
+   >Note: You will need to activate Two-Factor Authentication and set up a Gmail App Password.
 
 4. Run the service:
 
