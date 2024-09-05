@@ -54,21 +54,11 @@ const mailOptions = {
 };
 ```
 
-## Logging
+## Error Handling and Logging
 
 - Error Logging: All authentication and SMTP errors are captured and logged via the custom emailEmit module. Logs are saved to `errlogs.txt` for debugging purposes.
 
 - Success Logging: Successful email sends are logged with the message ID and response to `emailLogs.txt`.
-
-## Error Handling
-
-The `customMail.js` script handles common email errors:
-
-- Authentication (AUTH) errors => Error Code 535
-
-- DNS lookup failures: Logs the error with details about possible SMTP misconfiguration or internet issues.
-
-- Other SMTP errors are logged with their respective error names and details.
 
 ## License
 
