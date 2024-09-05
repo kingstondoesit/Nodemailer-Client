@@ -40,7 +40,7 @@ A simple email-sending service using [Nodemailer](https://www.npmjs.com/package/
 
 ## Usage
 
-To send emails with customized content, modify the `mailOptions` object in `custoMail.js` to specify the recipient, subject, and HTML body of the email. You can style and add custom scripts to the html markup too.
+To send emails with customized content, modify the `mailOptions` object in `customMail.js` to specify the recipient, subject, and HTML body of the email. You can style and add custom scripts to the html markup too.
 
 Example configuration in mailOptions:
 
