@@ -30,7 +30,7 @@ A simple email-sending service using [Nodemailer](https://www.npmjs.com/package/
    GMAIL_USER = `your-email@gmail.com`
    GMAIL_PASS = `your-app-password`
    ```
-   >Note: You will need have Two-Factor Authentication activated to set up a Gmail App Password.
+   >Note: You will need to have Two-Factor Authentication activated to set up a Gmail App Password.
 
 4. Run the service:
 
