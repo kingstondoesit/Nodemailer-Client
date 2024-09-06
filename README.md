@@ -65,6 +65,4 @@ const mailOptions = {
 This project is licensed under the MIT License - see [LICENSE file](https://opensource.org/licenses/MIT%C2%A0%C2%A0%C2%A0) for details.
 
 ## Support
-I hope you find this package useful. To support the creators of nodemailer-client service for future developments, kindly consider buying them a coffee!
-
-[buymeacoffee.com/kingstondoesit](https://buymeacoffee.com/kingstondoesit)
+I hope you find this package useful. To support the creators of nodemailer-client service for future developments, kindly consider buying them a coffee! [buymeacoffee.com/kingstondoesit](https://buymeacoffee.com/kingstondoesit)
