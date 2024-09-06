@@ -1,6 +1,6 @@
 # What is this?
 
-Nodemailer Client is a simple email-sending service using [Nodemailer](https://www.npmjs.com/package/nodemailer), designed to work with Gmail SMTP. It allows you to send customized HTML emails and handles errors efficiently by logging them using an event emitter.
+Nodemailer Client is a simple email-sending service built with [Nodemailer](https://www.npmjs.com/package/nodemailer), designed to work with Gmail SMTP. It allows you to send customized HTML emails and handles errors efficiently by logging them using an event emitter.
 
 ## Features
 
