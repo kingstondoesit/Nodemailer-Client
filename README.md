@@ -1,6 +1,6 @@
-# Nodemailer Client Service
+# What is this?
 
-A simple email-sending service using [Nodemailer](https://www.npmjs.com/package/nodemailer), designed to work with Gmail SMTP. It allows you to send customized HTML emails and handles errors efficiently by logging them using an event emitter.
+Nodemailer Client is a simple email-sending service using [Nodemailer](https://www.npmjs.com/package/nodemailer), designed to work with Gmail SMTP. It allows you to send customized HTML emails and handles errors efficiently by logging them using an event emitter.
 
 ## Features
 
@@ -62,7 +62,7 @@ const mailOptions = {
 
 ## License
 
-This project is licensed under the MIT License - see [LICENSE file](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) for details.
+This project is licensed under the MIT License - see [LICENSE file](https://opensource.org/licenses/MIT%C2%A0%C2%A0%C2%A0) for details.
 
 ## Support
 I hope you find this package useful. To support the creators of nodemailer-client service for future developments, kindly consider buying them a coffee!
