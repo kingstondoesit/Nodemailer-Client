@@ -184,4 +184,4 @@ This project is licensed under the MIT License - see [LICENSE file](https://open
 
 ## Support
 
-I hope you find this package useful. To support the creators of nodemailer-client service for future developments, kindly consider buying them a coffee! [buymeacoffee.com/kingstondoesit](https://buymeacoffee.com/kingstondoesit)
+I hope you find this package useful. To support the creators of nodemailer-client service for future developments, kindly consider buying them a coffee! <a href="https://buymeacoffee.com/kingstondoesit" target="_blank">buymeacoffee.com/kingstondoesit</a>
