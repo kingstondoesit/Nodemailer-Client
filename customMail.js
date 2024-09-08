@@ -82,6 +82,7 @@ transporter.sendMail(mailOptions, (error, info) => {
         `Authentication failed\t${error.code}\t${trimmedMessage}`,
         'errlogs.txt'
       );
+      console.log('Authentication failed:', error.message);
 
     } else if (error && error.responseCode !== 535) {
       // Handle Credential Error
