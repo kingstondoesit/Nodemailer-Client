@@ -4,7 +4,7 @@ Nodemailer Client is a simple email-sending service built with [Nodemailer](http
 
 ## Features
 
-- Sends an HTML email using popular SMTP services, including Gmail, Yahoo, Outlook, ProtonMail, and Zoho.
+- Sends HTML emails using popular SMTP services, including Gmail, Yahoo, Outlook, ProtonMail, and Zoho.
 - Handles authentication errors and DNS lookup failures.
 - Logs all email-related events to a file for debugging or audit purposes.
 - Utilizes environment variables for secure email credentials management.
