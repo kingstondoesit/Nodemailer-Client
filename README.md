@@ -38,7 +38,7 @@ Nodemailer Client is a simple email-sending service built with [Nodemailer](http
 
    ```bash
    YAHOO_USER = `your-email@yahoo.com`
-   YAHOO_PASS = your-app-password
+   YAHOO_PASS = `your-app-password`
    ```
 
    #### For Outlook
