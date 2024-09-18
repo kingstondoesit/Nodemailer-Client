@@ -30,7 +30,7 @@ Nodemailer Client is a simple email-sending service built with [Nodemailer](http
 
    ```bash
    GMAIL_USER = `your-email@gmail.com`
-   GMAIL_PASS = `your-app-password`
+   GMAIL_PASS = `your-gmail-app-password`
    ```
    >Note: You must have Two-Factor Authentication activated to set up a Gmail App Password.
 
@@ -38,14 +38,14 @@ Nodemailer Client is a simple email-sending service built with [Nodemailer](http
 
    ```bash
    YAHOO_USER = `your-email@yahoo.com`
-   YAHOO_PASS = `your-app-password`
+   YAHOO_PASS = `your-yahoomail-password`
    ```
 
    #### For Outlook
 
    ```bash
    OUTLOOK_USER = `your-email@outlook.com`
-   OUTLOOK_PASS = `your-app-password`
+   OUTLOOK_PASS = `your-outlook-password`
    ```
 
    #### For ProtonMail (requires ProtonMail Bridge)
@@ -59,7 +59,7 @@ Nodemailer Client is a simple email-sending service built with [Nodemailer](http
 
    ```bash
    ZOHO_USER = `your-email@zoho.com`
-   ZOHO_PASS = `your-app-password`
+   ZOHO_PASS = `your-zoho-password`
    ```
 
 4. Run the service:
