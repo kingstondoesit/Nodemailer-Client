@@ -86,7 +86,7 @@ const mailOptions = {
 
 To send emails via a different SMTP services, simply adjust the `transporter` settings in `customMail.js` based on the provider and update the `mailOptions` object accordingly.
 
-Example configuration in for other SMTP providers:
+Example configuration for other SMTP providers:
 
 #### Yahoo
 
